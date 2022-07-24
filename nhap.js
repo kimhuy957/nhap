@@ -1,0 +1,1 @@
+var nhap=document.getElementById('ha')
